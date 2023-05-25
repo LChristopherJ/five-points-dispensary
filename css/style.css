@@ -1,0 +1,25 @@
+    /* CSS styling for the header */
+    header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 10px;
+      background-image: url(/images/header\ bg\ dispensary.jpeg) alt="picture of marajuana leaf";
+    }
+    
+    /* CSS styling for the navigation links */
+    nav {
+      display: flex;
+    }
+    
+    nav a {
+      margin-right: 10px;
+      text-decoration: none;
+      color: black;
+      font-weight: bold;
+    }
+    
+    /* CSS styling for the content area */
+    main {
+      padding: 20px;
+    }
